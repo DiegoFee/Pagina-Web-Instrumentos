@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "Montserrat_Light";
+    src: url(../fonts/Montserrat/Montserrat-Light.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Montserrat_Regular";
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Montserrat_Medium";
+    src: url(../fonts/Montserrat/Montserrat-Medium.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Montserrat_SemiBold";
+    src: url(../fonts/Montserrat/Montserrat-SemiBold.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Montserrat_Bold";
+    src: url(../fonts/Montserrat/Montserrat-Bold.ttf) format("truetype");
+}
+/* _____________________________________________________________________________________________ */
+@font-face {
+    font-family: "Oswald_Light";
+    src: url(../fonts/Oswald/Oswald-Light.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Oswald_Regular";
+    src: url(../fonts/Oswald/Oswald-Regular.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Oswald_Medium";
+    src: url(../fonts/Oswald/Oswald-Medium.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Oswald_SemiBold";
+    src: url(../fonts/Oswald/Oswald-SemiBold.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Oswald_Bold";
+    src: url(../fonts/Oswald/Oswald-Bold.ttf) format("truetype");
+}
